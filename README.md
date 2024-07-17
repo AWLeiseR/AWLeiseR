@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AWLeiseR
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Typescript, NestJS and ReactJS
-- 💞️ I’m looking to collaborate on any IoT opensource project
+- 👀 I’m interested in IoT and AI
+- 🌱 I’m currently learning Typescript, NestJS and NexttJS
 - 📫 You can reach me over my Linkedin
 
 <!---
