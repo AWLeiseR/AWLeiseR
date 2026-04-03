@@ -27,13 +27,9 @@ I love building scalable web applications and exploring new technologies.
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📈 GitHub Stats
-
-![AWLeiseR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AWLeiseR&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWLeiseR&layout=compact&theme=radical)
 
 ### 📫 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alan-willy-leiser-800274195/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alan-leiser-800274195/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AWLeiseR&style=flat-square&color=blue)
